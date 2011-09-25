@@ -1,0 +1,17 @@
+<?php
+
+/*
+	Outglow - Miranda
+	
+	Developer		:		Harry Lawrence
+	Type			:		Skeleton(STABLE)
+	Released		:		15/06/2011
+	Code License	:		OpenSource - GNU GPL v3
+*/
+
+	class File
+	{
+		
+	}
+	
+?>
